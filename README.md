@@ -18,6 +18,9 @@ Build out scaffold:
 * command-line-tool
 * Microservice
 
+1. Create a virtualenv: 'virtualenv ~/.venv'
+2. edit my '~/.bashrc'
+
 ## Command-Lines Tools
 
 ## Microservices
