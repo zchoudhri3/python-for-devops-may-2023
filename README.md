@@ -6,7 +6,7 @@ This is my first readme file for CI/CD pipeline learning curve.
 Create developmemnt environment that is cloud-based
 
 ### Colab Notebook
-*This is and example of how to use colab
+*This is and example of how to use [colab]
 
 ## Command-Lines Tools
 
